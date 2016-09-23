@@ -1,2 +1,4 @@
 # hello-world
-My first github repository
+
+Hi, my name is eric.
+This is my very first foray into programming, I'm excited.
